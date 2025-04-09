@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+
+body {
+    background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div.telefone {
+    text-align: center;
+}
+iframe {
+    display: flex;
+    position: relative;
+    bottom: 553px;
+    left: 320px;
+    height: 500px;
+    width: 280px;
+}
